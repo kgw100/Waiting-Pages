@@ -1,0 +1,24 @@
+.box{
+device-width: 60%;
+device-height: 50%;
+margin: 10px auto;
+border:  10px solid #2E88C5;
+border-radius: 8px;
+margin-top: 20%
+}
+
+#d-day{
+  font-size: 250%;
+  text-align: center;
+  font-style:normal;
+  font-family:serif;
+  padding:  5px;
+  font-weight: bold;
+}
+#waiting{
+  device-width: 30%;
+  text-align: center;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
